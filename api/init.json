@@ -43,13 +43,19 @@
           "target": "_self",
           "child": [
             {
-              "title": "问题发布",
+              "title": "审计计划管理",
               "href": "page/problemManage/problem-release-list.html",
               "icon": "fa fa-tachometer",
               "target": "_self"
             },
             {
-              "title": "问题整理",
+              "title": "审计项目管理",
+              "href": "page/problemManage/problem-arrange-list.html",
+              "icon": "fa fa-tachometer",
+              "target": "_self"
+            },
+            {
+              "title": "审计归档",
               "href": "page/problemManage/problem-arrange-list.html",
               "icon": "fa fa-tachometer",
               "target": "_self"
